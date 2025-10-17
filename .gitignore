@@ -1,1 +1,19 @@
-test/
+# PlatformIO Build environment
+.pio/
+
+# VS Code settings (user-specific)
+.vscode/
+
+# Compiled firmware and binaries
+*.bin
+*.elf
+*.hex
+*.map
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
+
+# Private library data
+lib_extra/
+
